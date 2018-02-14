@@ -5,9 +5,9 @@ Questions? Comments?:
 3. Reach out to the data team on Slack and share your thoughts!
 -->
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Title of Lesson
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Data Science
 
-> Unit X, Lesson Y
+> Unit 1, Lesson 1
 
 <!--- Unit and Lesson or sequence information. This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view. --->
 
@@ -18,16 +18,9 @@ Questions? Comments?:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Interactive jupyter notebook with structured lesson content | [Link](./xyz)|
-| Data | Local copy of any dataset used | [Link](./xyz)|
-|      | Additional datasets listed | [Link](./xyz)|
-| Practice | Student activities | [Link](./xyz)|
-| Solutions | Sample solutions to lesson and practice files | [Link](./xyz)|
-| Slides | Slide decks & PDFs, where applicable | [Link](./xyz)|
-| Extra Resources | Other files, if applicable | [Link](./xyz) |
-| Source Materials | Archived content, if applicable | [Link](./xyz) |
-
-> Dataset description: What data we are using in this lesson and why. Provide a brief description of what it is and how it is used. This is intended to be a helpful, quick reference for instructors.
+| Development Environment | A quick check to ensure that git and Anaconda are working | [install_check.md](./install_check.md) |
+| Course Info and Definitions | Jupyter notebook to define common terms for the course and machine learning | [course_info_documentation.ipynb](./course_info_definitions.ipynb) |
+| Intro to Python Fundamentals | Jupyter notebook for the first dive into Python | [intro_to_python_fundamentals.ipynb](./intro_to_python_fundamentals.ipynb) |
 
 
 ---
@@ -35,22 +28,18 @@ Questions? Comments?:
 ## Learning Objectives
 <!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
 
-- **Define** learning objectives with a bolded action verb and descriptive, measurable statement
-- **Explain** the difference between causation and correlation
-- **Determine** causality and sampling bias using Directed Acyclic Graphs
-- **Identify** what missing data is and how to handle it
-- **Test** a hypothesis using a sample case study
+- **Set up** the development environment on their machines
+- **Define** the Data Science Workflow and common Machine Learning techniques
+- **Use** types in Python correctly
+- **Create** basic functions in Python
 
 ---
 
 ## Student Requirements
 <!--- This section explains the relevant prerequisites; in other words, what do students need to know to be able to benefit and perform the tasks required in this lesson? This includes lists of skills or prior learning objectives --->
 
-**Before this lesson(s), students should already be able to**:
-- Perform simple statistical analysis in Pandas
-- Define a foundational understanding of bias, variance, and correlation
-- Create box and line plot visualizations in Seaborn
-- Discuss common considerations within experimental design
+**Before this lesson(s), students should already have**:
+- Successfully completed the prework!
 
 ---
 
@@ -58,50 +47,23 @@ Questions? Comments?:
 
 <!--- This section outlines the lesson plan with relevant sections and subsections, providing both the total time required as well as suggestions for timing in each subsection --->
 
-> Total Time: 170 min. 
+> Total Time: 180 min. 
 
-- **Introduction**
-  - Where are we in the data science workflow? (5 min)
-- **Linear Algebra Review** (35 min)
-	- Scalars, vectors and matrices (5 min)
-	- Basic matrix algebra (5 min)
-	- Dot product (5 min)
-	- Matrix multiplication (10 min)
-	- N-Dimensional space (5 min)
-	- Vector norm (5 min)
-- **Linear Algebra Applications to Machine Learning** (15 min)
-	- Distance between actual values and predicted values (5 min)
-	- Mean Squared Error (5 min)
-	- Least squares (5 min)
-- **Codealong: Examining the Titanic Dataset** (15 min)
-- **Descriptive Statistics Fundamentals** (25 min)
-	- Measures of Central Tendency (5 min)
-	- Math Review (10 min)
-	- Measures of Dispersion: Standard Deviation and Variance (10 min)
-- **Our First Model** (10 min)
-- **A Short Introduction to Model Bias and Variance** (20 min)
-	- Bias-Variance decomposition (15 min)
-	- Example using Bessel's correction (5 min)
-- **Correlation and Association** (10 min)
-	- Codealong: Correlation in Pandas
-- **The Normal Distribution** (25 min)
-	- What is the Normal Distribution? (15 min)
-	- Skewness (5 min)
-	- Kurtosis (5 min)
-- **Determining the Distribution of Your Data** (10 min)
-	- Exercise (10 min)
-- Lesson Review
-
----
-
-## Additional Resources
-<!--- This section lists useful reference materials that can inform, extend, or deepen a student's understanding of the material. While this may seem like a "nice to have" feature, we normally see a range of advanced and remedial students in our classes. Curating these resources allows us to provide targeted materials and suggestions that instructors can use to support different student needs. --->
-
-For more information on this topic, check out the following resources:
-- [Example 1](X)
-- [Example 2](Y)
-- [Example 3](Z)
-
----
-
-
+- **Welcome to Data Science**
+  - Environment Check (15 mins)
+- **Course Information and Definitions**
+  - Activity: Data Science in the Real World (5 mins)
+  - Course & Project Structure (5 mins)
+  - How to Ask a Question (10 mins)
+  - Data Science Workflow through Ames Data (20 mins)
+  - Summary (5 mins)
+  - Common ML Definitions (15 mins)
+  - Activity - Quiz or group (15 mins)
+  - Summary (5 mins)
+- **Introduction to Python Fundamentals**
+  - Survey (5-10 min)
+  - Common Python Types (10 min)
+  - Common Types Codealong (20 min)
+  - Common Python Functions and Control Flow (10 min)
+  - Common Python Functions Codealong (20 min)
+  - Recap and Requests (5-10 min)
