@@ -53,13 +53,13 @@ Questions? Comments?:
   - Environment Check (15 mins)
 - **Course Information and Definitions**
   - Activity: Data Science in the Real World (5 mins)
-  - Course & Project Structure (5 mins)
   - How to Ask a Question (10 mins)
   - Data Science Workflow through Ames Data (20 mins)
   - Summary (5 mins)
   - Common ML Definitions (15 mins)
   - Activity - Quiz or group (15 mins)
   - Summary (5 mins)
+  - Course & Project Structure (5 mins)
 - **Introduction to Python Fundamentals**
   - Survey (5-10 min)
   - Common Python Types (10 min)
