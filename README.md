@@ -41,7 +41,7 @@ Questions? Comments?:
 
 **Before this lesson(s), students should already have**:
 - Successfully completed the prework
-- Enabled administrative privileges on personal machines (this makes installations easier)
+- Optional: enabled administrative privileges on personal machines, if possible (this makes installations easier)
 
 ---
 
