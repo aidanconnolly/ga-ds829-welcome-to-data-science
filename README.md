@@ -20,7 +20,7 @@ Questions? Comments?:
 | --- | --- | --- |
 | Part 1. Development Environment | A quick check to ensure that git and Anaconda are working | [here](./install_check.md) |
 | Part 2. Data Science Definitions | Jupyter notebook reviewing common terms and topics | [here](./course_info_definitions.ipynb) |
-|Part 3. Python Practice | Jupyter notebook review of Python programming fundamentals | [here](./intro_to_python_fundamentals.ipynb) |
+| Part 3. Python Practice | Jupyter notebook review of Python programming fundamentals | [here](./intro_to_python_fundamentals.ipynb) |
 
 
 ---
@@ -51,9 +51,9 @@ Questions? Comments?:
 
 > Total Time: 180 min. 
 
-- **Welcome to Data Science**
-  - Environment Check (15 mins)
-- **Course Information and Definitions**
+- **Part 1. Development Environment**
+  - Installation Check (15 mins)
+- **Part 2. Data Science Definitions**
   - Activity: Data Science in the Real World (5 mins)
   - How to Ask a Question (10 mins)
   - Data Science Workflow through Ames Data (20 mins)
@@ -61,14 +61,15 @@ Questions? Comments?:
   - Common ML Definitions (15 mins)
   - Activity - Quiz or group (15 mins)
   - Summary (5 mins)
-  - Course & Project Structure (5 mins)
-- **Introduction to Python Fundamentals**
+- **Break + Course Info**
+  - Course & Project Structure (5-10 mins)
+- **Part 3. Python Fundamentals**
   - Survey (5-10 min)
   - Common Python Types (10 min)
   - Common Types Codealong (20 min)
   - Common Python Functions and Control Flow (10 min)
   - Common Python Functions Codealong (20 min)
-  - Recap and Requests (5-10 min)
+  - Recap and Requests (5 min)
   
   ---
 
