@@ -18,9 +18,9 @@ Questions? Comments?:
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Development Environment | A quick check to ensure that git and Anaconda are working | [install_check.md](./install_check.md) |
-| Course Info and Definitions | Jupyter notebook to define common terms for the course and machine learning | [course_info_documentation.ipynb](./course_info_definitions.ipynb) |
-| Intro to Python Fundamentals | Jupyter notebook for the first dive into Python | [intro_to_python_fundamentals.ipynb](./intro_to_python_fundamentals.ipynb) |
+| Part 1. Development Environment | A quick check to ensure that git and Anaconda are working | [install_check.md](./install_check.md) |
+| Part 2. Data Science Definitions | Jupyter notebook reviewing common terms and topics | [course_info_documentation.ipynb](./course_info_definitions.ipynb) |
+|Part 3. Python Practice | Jupyter notebook review of Python programming fundamentals | [intro_to_python_fundamentals.ipynb](./intro_to_python_fundamentals.ipynb) |
 
 
 ---
@@ -28,8 +28,9 @@ Questions? Comments?:
 ## Learning Objectives
 <!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
 
-- **Set up** the development environment on their machines
-- **Define** the Data Science Workflow and common Machine Learning techniques
+- **Set up** and confirm your development environment 
+- **Define** the Data Science Workflow and common Machine Learning concepts
+- **Discuss** the topics and goals of our course
 - **Use** types in Python correctly
 - **Create** basic functions in Python
 
@@ -39,7 +40,8 @@ Questions? Comments?:
 <!--- This section explains the relevant prerequisites; in other words, what do students need to know to be able to benefit and perform the tasks required in this lesson? This includes lists of skills or prior learning objectives --->
 
 **Before this lesson(s), students should already have**:
-- Successfully completed the prework!
+- Successfully completed the prework
+- Enabled administrative privileges on personal machines (this makes installations easier)
 
 ---
 
@@ -67,3 +69,17 @@ Questions? Comments?:
   - Common Python Functions and Control Flow (10 min)
   - Common Python Functions Codealong (20 min)
   - Recap and Requests (5-10 min)
+  
+  ---
+
+## Additional Resources
+<!--- This section lists useful reference materials that can inform, extend, or deepen a student's understanding of the material. While this may seem like a "nice to have" feature, we normally see a range of advanced and remedial students in our classes. Curating these resources allows us to provide targeted materials and suggestions that instructors can use to support different student needs. --->
+
+For more information on this topic, check out the following resources:
+- [Introductory Data Science Concepts](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
+- [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+- [Command Line Tutorial](http://generalassembly.github.io/prework/cl/#/)
+- [Git Tutorial](https://try.github.io/levels/1/challenges/1)
+- [Python - Basic Programming Tutorials](https://python.swaroopch.com/control_flow.html)
+- [Python 3 the Hard Way](https://learnpythonthehardway.org/python3/)
+- [Jupyter Notebook Docs](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
