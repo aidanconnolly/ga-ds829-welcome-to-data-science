@@ -19,7 +19,7 @@ Questions? Comments?:
 | Topic | Description | Link |
 | --- | --- | --- |
 | Part 1. Development Environment | A quick check to ensure that git and Anaconda are working | [here](./install_check.md) |
-| Part 2. Data Science Definitions | Jupyter notebook reviewing common terms and topics | [here](./course_info_definitions.ipynb) |
+| Part 2. Data Science Definitions | Jupyter notebook reviewing common terms, topics, & course info | [here](./course_info_definitions.ipynb) |
 | Part 3. Python Practice | Jupyter notebook review of Python programming fundamentals | [here](./intro_to_python_fundamentals.ipynb) |
 
 
