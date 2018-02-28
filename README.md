@@ -28,18 +28,18 @@ Questions? Comments?
 ## Learning Objectives
 <!--- This section lists the lesson's learning objectives. For information on how to write clear learning objectives, review [this resource](http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/). --->
 
-- **Set up** and confirm your development environment 
-- **Define** the Data Science Workflow and common Machine Learning concepts
-- **Discuss** the topics and goals of our course
-- **Use** types in Python correctly
-- **Create** basic functions in Python
+- **Set up** and confirm your development environment.
+- **Define** the Data Science Workflow and common Machine Learning concepts.
+- **Discuss** the topics and goals of our course.
+- **Use** types in Python correctly.
+- **Create** basic functions in Python.
 
 ---
 
 ## Student Requirements
 <!--- This section explains the relevant prerequisites — in other words, what students need to know to be able to benefit from and perform the tasks required in this lesson. List all of the relevant skills or prior learning objectives here. --->
 
-**Before this lesson(s), students should already have**:
+**Before this lesson(s), students should have**:
 - Successfully completed the prework
 - Optional: enabled administrative privileges on personal machines, if possible (this makes installations easier)
 
