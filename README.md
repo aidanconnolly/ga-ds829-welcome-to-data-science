@@ -1,20 +1,20 @@
-<!--
-Questions? Comments?:
+<!---
+Questions? Comments?
 1. Log an issue to this repo to alert us of a problem.
 2. Suggest an edit yourself by forking this repo, making edits, and submitting a pull request with your changes back to our master branch.
-3. Reach out to the data team on Slack and share your thoughts!
--->
+3. Reach out to the Data team on Slack and share your thoughts!
+--->
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Data Science
 
 > Unit 1, Lesson 1
 
-<!--- Unit and Lesson or sequence information. This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view. --->
+<!--- Unit and lesson or sequence information. This template is an instructor-facing description of lesson contents. Students who fork these repos may also be able to view it. --->
 
 ---
 
 ## Materials We Provide
-<!--- This section is a table of contents for the lesson. The table structure breaks down typical lesson resources into types, distinguishing between lesson notebooks and other supporting materials. Note that the table below demonstrates the total possible range of materials; most lessons won't require all of the categories below. Also note that every item in the repo should get its own line and link, like the example shown for data. --->
+<!--- This section is a table of contents for the lesson. The table structure breaks down repo resources into types, distinguishing between lesson notebooks and other supporting materials. Note that the table below demonstrates the total possible range of materials. Most lessons won't require all of these categories. Also note that every item in the repo should get its own line and link. --->
 
 | Topic | Description | Link |
 | --- | --- | --- |
@@ -26,7 +26,7 @@ Questions? Comments?:
 ---
 
 ## Learning Objectives
-<!--- This section lists the learning objectives of the lesson. For information on how to write clear learning objectives, see: http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/ --->
+<!--- This section lists the lesson's learning objectives. For information on how to write clear learning objectives, review [this resource](http://ii.library.jhu.edu/2016/07/20/writing-effective-learning-objectives/). --->
 
 - **Set up** and confirm your development environment 
 - **Define** the Data Science Workflow and common Machine Learning concepts
@@ -37,7 +37,7 @@ Questions? Comments?:
 ---
 
 ## Student Requirements
-<!--- This section explains the relevant prerequisites; in other words, what do students need to know to be able to benefit and perform the tasks required in this lesson? This includes lists of skills or prior learning objectives --->
+<!--- This section explains the relevant prerequisites — in other words, what students need to know to be able to benefit from and perform the tasks required in this lesson. List all of the relevant skills or prior learning objectives here. --->
 
 **Before this lesson(s), students should already have**:
 - Successfully completed the prework
@@ -46,8 +46,7 @@ Questions? Comments?:
 ---
 
 ## Lesson Outline
-
-<!--- This section outlines the lesson plan with relevant sections and subsections, providing both the total time required as well as suggestions for timing in each subsection --->
+<!--- This section outlines the lesson plan with relevant sections and subsections, providing both the total time required as well as suggestions for timing in each subsection. --->
 
 > Total Time: 180 min. 
 
@@ -74,7 +73,7 @@ Questions? Comments?:
   ---
 
 ## Additional Resources
-<!--- This section lists useful reference materials that can inform, extend, or deepen a student's understanding of the material. While this may seem like a "nice to have" feature, we normally see a range of advanced and remedial students in our classes. Curating these resources allows us to provide targeted materials and suggestions that instructors can use to support different student needs. --->
+<!--- This section should list relevant, trustworthy reference materials to supplement beginner and advanced audiences. Students report finding a lot of value in curated resources that help them reinforce, extend, or deepen their learning. --->
 
 For more information on this topic, check out the following resources:
 - [Introductory Data Science Concepts](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction)
