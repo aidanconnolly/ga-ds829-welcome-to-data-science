@@ -63,7 +63,7 @@ These identifiers will be added to your commits and show up when you push your c
 
 While you can connect your local repositories (the work on your laptop) to remote repositories (those stored on [GitHub](https://git.generalassemb.ly)) without much additional effort, this will prompt you to input your username and password quite  frequently. However, there's an alternative known as SSH, which will let you create a file on your computer that will authenticate you to [GitHub](https://git.generalassemb.ly) without entering your username and password over and over again. 
 
-**Note**: Remember, these steps are optional. If you're having trouble, feel free to chat w your instructor!
+**Note**: Remember, these steps are optional. If you're having trouble, feel free to chat with your instructor!
 
 #### Using SSH and SSH Agent (Recommended)
 
